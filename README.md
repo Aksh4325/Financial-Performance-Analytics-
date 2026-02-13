@@ -176,11 +176,8 @@ MIT License - see [LICENSE](LICENSE) file
 ## 🎓 Academic Information
 
 **Institution:** Medicaps University 
-
 **Program:** Data Analytics / Business intelligence 
-
-**Year:** 2025
-
+**Year:** 2025 
 **Project Type:** Learning Purpose 
 
 ---
